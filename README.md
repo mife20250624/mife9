@@ -61,4 +61,4 @@ Telegram频道传送门：精选热门 Telegram 频道资源，涵盖资讯、�
 社会影响：
 
 系统梳理娱乐圈及网红界的重大爆料事件，清晰呈现事件从曝光到发酵的完整过程。内容真实可靠，时间线明确，是用户回顾热点舆情、深入理解事件演变的实用信息库。
-[Canonical link](）
+[Canonical link](https://github.com/mife20250624/mife9）
